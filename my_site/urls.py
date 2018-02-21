@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from my_site import site
+from . import site
 
 urlpatterns = [
     path('', site.index, name='index'),
