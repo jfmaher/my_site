@@ -25,7 +25,9 @@ SECRET_KEY = '2vaybf8qqx_fhve%bhhs1y$5m_4_n=mg2+v=b)yc(et@9kb0m9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'jamesfm.uk'
+]
 
 
 # Application definition
