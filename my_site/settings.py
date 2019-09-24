@@ -26,7 +26,8 @@ SECRET_KEY = '2vaybf8qqx_fhve%bhhs1y$5m_4_n=mg2+v=b)yc(et@9kb0m9'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'jamesfm.uk'
+    'jamesfm.uk',
+    'ec2-52-48-191-47.eu-west-1.compute.amazonaws.com'
 ]
 
 
